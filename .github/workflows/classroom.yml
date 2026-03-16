@@ -23,7 +23,7 @@ jobs:
         input: |-
           2 3 4
           2 3 4
-        expected-output: ''
+        expected-output: '00:00:00'
         comparison-method: contains
         timeout: 10
         max-score: 10
